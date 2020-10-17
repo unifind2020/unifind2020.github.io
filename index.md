@@ -24,7 +24,7 @@ By creating a digital platform (mobile application) where students can leave tes
 High school students and persons who want to start a bachelor’s degree program.
 ### Competition:
 
-<a href="https://www.zonkafeedback.com/student-classroom-feedback-software" rel="zonka">![zonka](zonka-logo15.webp =50x50)</a>  | <a href="http://www.whatuni.com" rel="whotuni">![whotuni](logo_print.png =50x50)</a> | <a href="http://www.studentcrowd.com" rel="studentcrowd">![studentcrowd](studentcrowd-300x150.jpg =50x50)</a> | <a href="https://www.edumatch.ro/" rel="ctss">![ctss](Ce-trebuie-sa-stii.png =50x50)</a>
+<a href="https://www.zonkafeedback.com/student-classroom-feedback-software" rel="zonka">![zonka](zonka-logo15.webp)</a>  | <a href="http://www.whatuni.com" rel="whotuni">![whotuni](logo_print.png)</a> | <a href="http://www.studentcrowd.com" rel="studentcrowd">![studentcrowd](studentcrowd-300x150.jpg)</a> | <a href="https://www.edumatch.ro/" rel="ctss">![ctss](Ce-trebuie-sa-stii.png)</a>
 
 - https://www.zonkafeedback.com/student-classroom-feedback-software
 - www.whatuni.com
