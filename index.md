@@ -24,7 +24,7 @@ By creating a digital platform (mobile application) where students can leave tes
 High school students and persons who want to start a bachelor’s degree program.
 ### Competition:
 
-<a href="https://www.zonkafeedback.com/student-classroom-feedback-software" rel="zonka"> <img src="zonka-logo15.webp" alt="drawing" width="170" height="120"/> </a> | <a href="http://www.whatuni.com" rel="whotuni"> <img src="logo_print.png" alt="drawing" width="120" height="120"/> </a> | <a href="http://www.studentcrowd.com" rel="studentcrowd"> <img src="studentcrowd-300x150.jpg" alt="drawing" width="200" height="120"/> </a> | <a href="https://www.edumatch.ro/" rel="ctss"> <img src="Ce-trebuie-sa-stii.png" alt="drawing" width="140" height="120"/> </a>
+<a href="https://www.zonkafeedback.com/student-classroom-feedback-software" rel="zonka"> <img src="zonka-logo15.webp" alt="drawing" width="170" height="90"/> </a> | <a href="http://www.whatuni.com" rel="whotuni"> <img src="logo_print.png" alt="drawing" width="120" height="120"/> </a> | <a href="http://www.studentcrowd.com" rel="studentcrowd"> <img src="studentcrowd-300x150.jpg" alt="drawing" width="200" height="120"/> </a> | <a href="https://www.edumatch.ro/" rel="ctss"> <img src="Ce-trebuie-sa-stii.png" alt="drawing" width="180" height="120"/> </a>
 
 ### Your advantage over the competition
  - Only verified users can leave reviews about a certain university
