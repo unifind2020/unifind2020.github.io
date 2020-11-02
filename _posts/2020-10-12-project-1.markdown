@@ -1,0 +1,46 @@
+---
+layout: default
+modal-id: 1
+date: 2020-10-12
+img: first_milestone.png
+alt: image-alt
+project-date: October 2020
+title: Milestone 1
+description:  
+---
+### Problem description
+
+In Romania, over 1 million students begin a bachelor’s program every year, but unfortunately about a third of them quit their studies during the first year. Not choosing the most appropriate study area for them seems to be the cause of this situation.
+Many of them also complain about the fact that the university brochures they have access to before studying, picture a very different image of the university life compared to what they experience when they begin it. Other reported reasons is the lack of information, or that the educational standards are below their expectations.
+
+### Solution
+By creating a digital platform (mobile application) where students can leave testimonials and reviews about the study programs they are currently enrolled in we believe we can create a realistic image about what the future students should expect. The platform will contain a Q&A section where everybody can ask questions and verified users can answer them.
+
+### Customer segments
+High school students and persons who want to start a bachelor’s degree program.
+
+### Competition
+![zonka](img/zonka-logo15.webp)|
+![whatuni](img/logo_print.png)|
+![studentcrowd](img/studentcrowd-300x150.jpg)|
+![edumatch](img/Ce-trebuie-sa-stii.png)
+
+### Advantage over the competition
+ 1. Only verified users can leave reviews about a certain university
+ 2. We target public from Romania
+
+### Key metrics
+
+ 1. Number of applications downloads
+ 2. Total number of user reviews (inside the application)
+ 3. Number of satisfied users (the ones that received useful information by using this app)
+
+### Cost strucure
+
+1. Fixed costs: Hardware, Bank Fees, Software (Google Play Store, Dev Account, Subscriptions ...)
+2. Variable costs: Marketing / Advertising
+
+### Revenue streams
+
+Advertisment (via Google Ads)
+

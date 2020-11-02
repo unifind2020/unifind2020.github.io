@@ -1,0 +1,123 @@
+---
+layout: default
+modal-id: 2
+date: 2020-11-01
+img: second_milestone.png
+alt: image-alt
+project-date: November 2020
+title: Milestone 2
+description: 
+---
+
+### Identifying the problem
+
+One of the most important decisions in the life of a highschool student is to choose the right university. And yet, this choice is often made on the basis of erroneous information and without having any idea of ​​the true dynamics of the campus and of the faculty. At the end of the 11th grade, students are visited by countless faculties/universities, who are using extravagant materials in their presentations to impress teenagers. How can they differentiate between what is good and what is bad when all universities promise the same end product of a quality career-oriented education.
+
+In addition to these sometimes pompous presentations, students try to ask their acquaintances and friends about what they know about the university they are interested in. However, it is not enough to talk to 1 or 2 acquaintances in order to make a choice that will influence your entire future. Sometimes, the highschool student tries to search information online, and ends up going through a lot of forums and sites, in hope of finding relevant information for him. And even if this information is eventually obtained, the whole process remains stressful and difficult.
+
+### Proposed solution
+
+Our proposed solution is to develop a mobile platform where any student who is uncertain can find a multitude of opinions and impressions left by students from various universities: about courses, job opportunities, relevance on the market, student life, campus, accommodation and more.
+
+Thus, the highschool students and even students who are already there, can create an impression from the experiences of the older ones, without having to discover that the choice they wanted to make is not the right one for them or to know for what to prepare in their following years. 
+
+We want to develop a platform that helps you find as many details as possible about the desired faculties and the opportunities they offer, both the good and the bad parts and prepares you to be able to make an informed decision. The platform will have a review section where students can leave their experiences and a Q&A section in which high school students can ask questions about things not mentioned by students.
+
+### Customer discovery plan
+
+In order to verify that this problem is still present among high school students, and that the solution proposed above would be helpful for them, we must contact as many of them as possible, without being able to guess our solution. 
+However, in order for our solution to achieve its goal, we need students who are willing to share their experiences and be able to answer any questions from high school students. That's why we need to find out how feedback is seen among them. In addition, we can see how the whole process was for them and if indeed this problem was noticed at that time.
+We have 2 customer segments: high school students and university students. We will go into more detail about how we discovered and interrogated them in the next section.
+
+### Description of the entire process
+
+In order to reach the customer segments, we created a public form, which we distributed to our friends, whether they are students or high school students, as well as various groups they belong to.
+// niste ss-uri cu mesajele trimise
+![feedback1](img/1.PNG)
+![feedback2](img/2.PNG)
+![feedback3](img/3.PNG)
+![feedback5](img/5.jpg)
+![feedback6](img/6.jpeg)
+
+Through this form, we aim to obtain the amount of interest shown by highschool students in choosing a university and how close to the truth was their research when they actually got to the university. The form has 2 sections, one dedicated to students and another to high school students, which contains both open-ended and closed-ended questions.
+
+You can see the form at this link [form](https://docs.google.com/forms/d/e/1FAIpQLSf04YgVObZRBu1EK3rBY_pMb0iPv7LFD-aLxHrnDrRKIETLAg/viewform). So far, the form has been completed by 150 people, namely 82 high school students and 68 students and some of them agreed to give us the email address for further questions.
+
+### Conclusions
+#### University students section
+
+![question1](img/q1.png)<br>
+From the responses we have received only 57.4% of the students are satisfied with their university. This means that over 40% of them consider there could have been better choices. Our application can be very useful for increasing the satisfied portion of the students.
+
+![question2](img/q2.png)<br>
+From the actual students more than 70% declared that they have chosen to gather information from talking to parents or friends. Also over 35% used online forums for this purpose. Therefore we can conclude that there will certainly be a lot of future students that will use our platform in order to research their university. 
+
+![question3](img/q3.png)<br>
+More than 77% of the respondents have declared that the information they have collected was accurate and helpful. Taking into consideration the fact that most of them have collected it from friends and family, we can understand that the content on our platform is going to be at least this useful.
+
+![question4](img/q4.png)<br>
+Because more than 60% of the respondents declared that they were not completely aware of the curriculum of the faculty before attending we consider this is an area where our platform can provide a lot of improvement. The actual students can communicate to the highschool pupils the most recent and relevant information regarding the curriculum.
+
+```What else would you have wanted to know about universities/faculties and couldn't?```
+
+Most of the answers they could not get before choosing the faculty include: 
+* feedback for courses and teachers
+* career opportunities, details about extracurricular activities
+* but also about student life in general
+They complained that most of the information found was vague and theoretical.
+
+```How much time did you spend on researching how university life is?```
+
+Most of the respondents have answered that they have spent a lot of time (more than a month) researching how university life is. This implies that it is a very important aspect for them. By using our application they can decrease the amount of time needed for this part of their research.
+
+![question5](img/q5.png)<br>
+```If the answer is no, what is the reason for not providing feedback? If the answer is yes, how did you provide feedback?```
+
+Students who answered yes to this question were able to provide feedback through online forms, in social applications or even face to face. Those who responded negatively either did not find someone willing to listen or did not know where to send feedback. We can say that our solution would satisfy both sides.
+
+#### High school students section
+
+![question6](img/q6.png)<br>
+Only 31% from the highschool students know exactly what university they want to follow, the rest of 69% need more information about the universities to know if it suits them.
+
+![question7](img/q7.png)<br>
+
+Most of the highschool students are talking with parents and friends and searching on online forums to find more information in addition to those on the university website. Our application can centralize all this information so the highschool students can find it in one place.
+
+```Have you found all the information you have been searching for? If not what else would you like to find out about universities and couldn't?```
+
+Over 50% of the highschool students didn’t find all the information they were looking for, in particular about the teachers, the admission and the accommodation.
+
+![question9](img/q9.png)<br>
+
+The information on the university sites is not enough for the students to really know about the curriculum, therefore 63% of the highschool students don’t know what they are exactly doing in classes.
+
+![question10](img/q10.png)<br>
+
+Over 70% of the highschool students consider that the feedback from the students that are attending a certain university can change their opinion  regarding the university they want to attend and can provide useful information.
+
+```How much time are you willing to spend on research?```<br>
+As with students, high school students are prepared to spend as much time as necessary to make sure they make the right decision for their future.
+
+```Do you know people who are in college that can talk to you about their experience? Do you feel like their experience is relevant for you?```
+
+Most of the people have no one to talk to about the experience and the life in the university they want to attend. For these highschool students our application can provide feedback from different people to get better and more relevant information.
+
+
+### Insights affecting our product
+
+We are glad that the high school students were open to express their thoughts in our form regarding the problem we identified and to find out that they are also dissatisfied with the same things that we invoked.
+Following the form we resume the following ideas:
+
+1. Highlighted a predisposition among the high school students to obtain information from "unofficial" sources, such as the experiences of parents, friends or current students, rather than from "official" sources, such as the faculty website;
+2. Both high school and college students did not find all the information they wanted after their searches;
+3. High school students want to spend as much time as they need to choose their faculty well;
+4. Most of the students interviewed either give feedback on their student experiences or are willing to do so;
+5. Students who did not provide feedback invoked the lack of people willing to listen and a place to do so.
+
+In conclusion, these insights do not affect the solution we proposed, high school students need a centralized platform where they can find information and experiences of other students in the shortest time. Students are willing to share their experiences, so all we have to do is implement the solution. :)
+
+### Are we ready to move to the Customer Validation stage?
+
+Based on the information presented in the previous section we can say that we are ready to move to the Customer Validation stage.
+
