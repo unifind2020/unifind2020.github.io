@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: UniFind
+email: unifind@tutanota.com
+url: https://github.com/unifind2020
+description: "Platforma pentru studenti"
+keywords: "student, elev, liceu, facultate, feedback"
+skills: "Feedback platform for universities"
 meta_author: LastName FirstName
 
 # Google webmaster tools
