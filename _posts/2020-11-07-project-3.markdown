@@ -9,31 +9,19 @@ title: Milestone 3
 description:  
 ---
 ### Wireframes
-----------
-![wireframe1](img/iPhone X, XS, 11 Pro – 1.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe2](img/iPhone X, XS, 11 Pro – 2.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe3](img/iPhone X, XS, 11 Pro – 3.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe4](img/iPhone X, XS, 11 Pro – 4.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe5](img/iPhone X, XS, 11 Pro – 5.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe6](img/iPhone X, XS, 11 Pro – 6.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe7](img/iPhone X, XS, 11 Pro – 7.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe8](img/iPhone X, XS, 11 Pro – 8.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe9](img/iPhone X, XS, 11 Pro – 9.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe10](img/iPhone X, XS, 11 Pro – 10.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe11](img/iPhone X, XS, 11 Pro – 11.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
-![wireframe12](img/iPhone X, XS, 11 Pro – 12.png)&nbsp;&nbsp;&nbsp;&nbsp;
-----------
+
+<kbd>![wireframe1](img/iPhone X, XS, 11 Pro – 1.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe2](img/iPhone X, XS, 11 Pro – 2.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>[wireframe3](img/iPhone X, XS, 11 Pro – 3.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe4](img/iPhone X, XS, 11 Pro – 4.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe5](img/iPhone X, XS, 11 Pro – 5.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe6](img/iPhone X, XS, 11 Pro – 6.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe7](img/iPhone X, XS, 11 Pro – 7.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe8](img/iPhone X, XS, 11 Pro – 8.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe9](img/iPhone X, XS, 11 Pro – 9.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe10](img/iPhone X, XS, 11 Pro – 10.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe11](img/iPhone X, XS, 11 Pro – 11.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+<kbd>![wireframe12](img/iPhone X, XS, 11 Pro – 12.png)&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
 
 ### Landing page
 
