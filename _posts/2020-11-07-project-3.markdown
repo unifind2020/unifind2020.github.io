@@ -14,14 +14,17 @@ description:
 ![wireframe2](img/iPhone X, XS, 11 Pro – 2.png)
 ![wireframe3](img/iPhone X, XS, 11 Pro – 3.png)
 ![wireframe4](img/iPhone X, XS, 11 Pro – 4.png)
+<br><br>
 ![wireframe5](img/iPhone X, XS, 11 Pro – 5.png)
 ![wireframe6](img/iPhone X, XS, 11 Pro – 6.png)
 ![wireframe7](img/iPhone X, XS, 11 Pro – 7.png)
 ![wireframe8](img/iPhone X, XS, 11 Pro – 8.png)
+<br><br>
 ![wireframe9](img/iPhone X, XS, 11 Pro – 9.png)
 ![wireframe10](img/iPhone X, XS, 11 Pro – 10.png)
 ![wireframe11](img/iPhone X, XS, 11 Pro – 11.png)
 ![wireframe12](img/iPhone X, XS, 11 Pro – 12.png)
+<br><br>
 
 ### Landing page
 
