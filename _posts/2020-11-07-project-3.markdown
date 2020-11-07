@@ -10,18 +10,18 @@ description:
 ---
 ### Wireframes
 
-![wireframe1](img/iPhone X, XS, 11 Pro – 1.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe2](img/iPhone X, XS, 11 Pro – 2.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe3](img/iPhone X, XS, 11 Pro – 3.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe4](img/iPhone X, XS, 11 Pro – 4.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe5](img/iPhone X, XS, 11 Pro – 5.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe6](img/iPhone X, XS, 11 Pro – 6.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe7](img/iPhone X, XS, 11 Pro – 7.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe8](img/iPhone X, XS, 11 Pro – 8.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe9](img/iPhone X, XS, 11 Pro – 9.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe10](img/iPhone X, XS, 11 Pro – 10.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe11](img/iPhone X, XS, 11 Pro – 11.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe12](img/iPhone X, XS, 11 Pro – 12.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe1](img/iPhone X, XS, 11 Pro – 1.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe2](img/iPhone X, XS, 11 Pro – 2.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe3](img/iPhone X, XS, 11 Pro – 3.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe4](img/iPhone X, XS, 11 Pro – 4.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe5](img/iPhone X, XS, 11 Pro – 5.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe6](img/iPhone X, XS, 11 Pro – 6.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe7](img/iPhone X, XS, 11 Pro – 7.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe8](img/iPhone X, XS, 11 Pro – 8.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe9](img/iPhone X, XS, 11 Pro – 9.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe10](img/iPhone X, XS, 11 Pro – 10.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe11](img/iPhone X, XS, 11 Pro – 11.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe12](img/iPhone X, XS, 11 Pro – 12.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Landing page
 
