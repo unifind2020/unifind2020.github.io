@@ -32,12 +32,9 @@ We have 2 customer segments: high school students and university students. We wi
 ### Description of the entire process
 
 In order to reach the customer segments, we created a public form, which we distributed to our friends, whether they are students or high school students, as well as various groups they belong to.
-// niste ss-uri cu mesajele trimise
 ![feedback1](img/1.PNG)
 ![feedback2](img/2.PNG)
-![feedback3](img/3.PNG)
-![feedback5](img/5.jpg)
-![feedback6](img/6.jpeg)
+![feedback6](img/6.jpg)
 
 Through this form, we aim to obtain the amount of interest shown by highschool students in choosing a university and how close to the truth was their research when they actually got to the university. The form has 2 sections, one dedicated to students and another to high school students, which contains both open-ended and closed-ended questions.
 
