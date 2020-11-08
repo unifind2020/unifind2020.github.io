@@ -22,6 +22,7 @@ description:
 ![wireframe10](img/iPhone X, XS, 11 Pro – 10.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![wireframe11](img/iPhone X, XS, 11 Pro – 11.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![wireframe12](img/iPhone X, XS, 11 Pro – 12.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe13](img/iPhone X, XS, 11 Pro – 13.png){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Landing page
 
