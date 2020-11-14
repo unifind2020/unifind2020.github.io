@@ -10,8 +10,8 @@ description:
 ---
 ### Interviews
 #### About
-
-<table class="w3-table">
+* * *
+<table class="w3-table text-center">
   <tbody>
     <tr>
         <th>Interviews of high school students</th>
