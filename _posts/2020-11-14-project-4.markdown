@@ -11,18 +11,67 @@ description:
 ### Interviews
 #### About
 
-Interviews of high school students  | Interviews of university students
-------------- | -------------
-<audio controls="">
-          <source src="img/test.mp4" type="audio/mpeg">
-          Your browser does not support the audio tag.
-</audio>| test
-<!-- ![audio3](img/test.mp4) | ![audio4](img/test.mp4) -->
+<table class="w3-table">
+  <tbody>
+    <tr>
+        <th>Interviews of high school students</th>
+        <th>Interviews of university students</th>
+    </tr>
+    <tr>
+        <td>
+            <audio controls="">
+                <source src="img/test.mp4" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td>
+            <audio controls="">
+                <source src="img/test.mp4" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    <!-- <tr>
+        <td>
+            <audio controls="">
+            <source src="resources_audio/parteneri_02.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td>
+            <audio controls="">
+            <source src="resources_audio/studenti_02.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <audio controls="">
+            <source src="resources_audio/parteneri_03.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td>
+            <audio controls="">
+            <source src="resources_audio/studenti_03.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>
+            <audio controls="">
+            <source src="resources_audio/studenti_04.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr> -->
+    </tbody>
+</table>
 
-<audio controls="">
-          <source src="resources_audio/parteneri_01.mp3" type="audio/mpeg">
-          Your browser does not support the audio tag.
-</audio>
 #### Conclusions
 
 ### User persona
