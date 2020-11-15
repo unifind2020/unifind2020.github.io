@@ -125,7 +125,7 @@ description:
 ### Use cases
 * * *
 ### User flows
-<div style="width=1200px; !important">
-    <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="50%">
-    <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="50%">
+<div width="1200px;">
+    <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
 </div>
