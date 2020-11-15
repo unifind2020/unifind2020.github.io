@@ -14,18 +14,16 @@ description:
   <tbody>
     <tr>
         <th>Interviews of high school students</th>
-        <th></th>
         <th>Interviews of university students</th>
     </tr>
     <tr>
-        <td>
+        <td style="padding:0 20px 0 20px;">
             <audio controls="">
                 <source src="img/Highschool student-recording1.m4a" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td></td>
-        <td>
+        <td style="padding:0 20px 0 20px;">
             <audio controls="">
                 <source src="img/University student-recording1.m4a" type="audio/mpeg">
                 Your browser does not support the audio tag.
@@ -33,32 +31,30 @@ description:
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="padding:0 20px 0 20px;">
             <audio controls="">
                 <source src="img/Highschool student-recording2.m4a" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td></td>
-        <td></td>
+        <td style="padding:0 20px 0 20px;"></td>
     </tr>
     <tr>
-        <td>
+        <td style="padding:0 20px 0 20px;">
             <audio controls="">
                 <source src="img/Highschool student-recording3.m4a" type="audio/mpeg">
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td></td>
-        <td></td>
+        <td style="padding:0 20px 0 20px;"></td>
     </tr>
     </tbody>
 </table>
 
 * * *
 ### User persona
-<img width="870px" src="img/user_persona_1.PNG" style="align: left;">
-<img width="870px" src="img/user_persona_2.PNG" style="align: left;">
+<img width="870px" src="img/user_persona_1.PNG" style="align: left; padding:0 -20px 0 -20px;">
+<img width="870px" src="img/user_persona_2.PNG" style="align: left; padding:0 -20px 0 -20px;">
 * * *
 ### User stories
 
@@ -70,18 +66,21 @@ description:
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
         <div class="boxed">
-            <span style="font-weight:bold;">As future student, </span> 
             <ul>
                 <li>
+                    <span style="font-weight:bold;">As future student, </span> 
                     <span>I want to see what current students think about the faculties that interests me</span> 
-                </li><br>
+                </li>
                 <li>
+                    <span style="font-weight:bold;">As future student, </span> 
                     <span>I want to be able to ask current students questions</span> 
-                </li><br>
+                </li>
                 <li>
+                    <span style="font-weight:bold;">As future student, </span> 
                     <span>I want to receive authorized answers from students of those faculties</span> 
-                </li><br>
+                </li>
                 <li>
+                    <span style="font-weight:bold;">As future student, </span> 
                     <span>I want to be up to date with the new answers to the questions</span> 
                 </li>
             </ul>
@@ -97,15 +96,17 @@ description:
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
         <div class="boxed">
-            <span style="font-weight:bold;">As current student, </span>
             <ul>
                 <li>
+                    <span style="font-weight:bold;">As current student, </span>
                     <span>I want to help someone to make the right choice</span> 
-                </li><br>
+                </li>
                  <li>
+                    <span style="font-weight:bold;">As current student, </span>
                     <span>I want to share my experience and answer their curiosities</span> 
-                </li><br>
+                </li>
                  <li>
+                    <span style="font-weight:bold;">As current student, </span>
                     <span>I want the best students to come to my college</span> 
                 </li>
             </ul>
@@ -118,6 +119,5 @@ description:
 * * *
 ### User flows
  
-Future student flow                                  |  Student flow
-:---------------------------------------------------|:-------------------------
-![first user flow](img/UserFlow-FutureStudent.png)   |  ![second user flow](img/UserFlow-Student.png)
+![first user flow](img/UserFlow-FutureStudent.png) 
+![second user flow](img/UserFlow-Student.png)
