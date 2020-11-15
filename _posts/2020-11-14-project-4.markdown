@@ -126,6 +126,10 @@ description:
 * * *
 ### User flows
 <div width="1200px;">
-    <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
-    <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    <a target="_blank" href="img/UserFlow-FutureStudent.png">
+        <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    </a>
+    <a target="_blank" href="img/UserFlow-Student.png">
+        <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    </a>
 </div>
