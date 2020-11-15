@@ -57,8 +57,8 @@ description:
 
 * * *
 ### User persona
-<img width="870px" src="img/user_persona_1.PNG" style="align: center;">
-<img width="870px" src="img/user_persona_2.PNG" style="align: center;">
+<img width="870px" src="img/user_persona_1.PNG" style="align: left;">
+<img width="870px" src="img/user_persona_2.PNG" style="align: left;">
 * * *
 ### User stories
 
@@ -70,12 +70,19 @@ description:
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
         <div class="boxed">
+            <span style="font-weight:bold;">As future student, </span> 
             <ul>
                 <li>
-                    <span>I want to be able to make an appointment through an app or website</span> 
-                </li>
-                 <li>
-                    <span>I want to be able to make an appointment through an app or website</span> 
+                    <span>I want to see what current students think about the faculties that interests me</span> 
+                </li><br>
+                <li>
+                    <span>I want to be able to ask current students questions</span> 
+                </li><br>
+                <li>
+                    <span>I want to receive authorized answers from students of those faculties</span> 
+                </li><br>
+                <li>
+                    <span>I want to be up to date with the new answers to the questions</span> 
                 </li>
             </ul>
         </div>
@@ -90,24 +97,16 @@ description:
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
         <div class="boxed">
+            <span style="font-weight:bold;">As current student, </span>
             <ul>
                 <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
-                </li>
+                    <span>I want to help someone to make the right choice</span> 
+                </li><br>
                  <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
-                </li>
+                    <span>I want to share my experience and answer their curiosities</span> 
+                </li><br>
                  <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
-                </li>
-                 <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
-                </li>
-                <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
-                </li>
-                 <li>
-                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                    <span>I want the best students to come to my college</span> 
                 </li>
             </ul>
         </div>
