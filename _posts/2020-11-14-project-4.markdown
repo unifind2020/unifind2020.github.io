@@ -13,8 +13,8 @@ description:
 <table class="w3-table">
   <tbody>
     <tr>
-        <th>Interviews of high school students</th>
-        <th>Interviews of university students</th>
+        <th style="padding:0 20px 0 20px;">Interviews of high school students</th>
+        <th style="padding:0 20px 0 20px;">Interviews of university students</th>
     </tr>
     <tr>
         <td style="padding:0 20px 0 20px;">
@@ -65,7 +65,8 @@ description:
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="boxed">
+        <div class="speech-bubble">
+            <div class="arrow bottom right"></div>
             <ul>
                 <li>
                     <span style="font-weight:bold;">As future student, </span> 
@@ -95,17 +96,18 @@ description:
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="boxed">
+        <div class="speech-bubble">
+            <div class="arrow bottom right"></div>
             <ul>
                 <li>
                     <span style="font-weight:bold;">As current student, </span>
                     <span>I want to help someone to make the right choice</span> 
                 </li>
-                 <li>
+                    <li>
                     <span style="font-weight:bold;">As current student, </span>
                     <span>I want to share my experience and answer their curiosities</span> 
                 </li>
-                 <li>
+                    <li>
                     <span style="font-weight:bold;">As current student, </span>
                     <span>I want the best students to come to my college</span> 
                 </li>
