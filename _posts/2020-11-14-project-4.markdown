@@ -69,7 +69,14 @@ description:
         <td style="padding:0 20px 0 20px;"></td>
     </tr>
     </tbody>
-</table>
+</table><br><br><br>
+
+#### Conclusions after interviews
+
+Following the interviews, we discovered that high school students do not have enough information about the faculty they want to attend. Often their decisions are based on incomplete data, namely what they find on the official website of the university or what they hear from certain people.
+Unfortunately, they do not know enough people who attend or have studied at the desired faculty, so the information about the faculty is limited. They said they would like to have discussions and opinions from current students.
+Regarding the students interviewed, they considered that although they made the right choice, more details and opinions about the community in the faculty would have helped them to accommodate faster. They were open to the idea of giving feedback on their student experiences.
+**We consider that through the existing wireframes we have covered all these findings, so we are one step closer to implementation.**
 
 * * *
 ### User persona
