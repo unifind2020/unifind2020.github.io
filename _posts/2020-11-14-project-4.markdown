@@ -16,7 +16,6 @@ description:
         <th>Interviews of high school students</th>
         <th></th>
         <th>Interviews of university students</th>
-        <th></th>
     </tr>
     <tr>
         <td>
@@ -32,7 +31,6 @@ description:
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>
@@ -41,7 +39,6 @@ description:
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td></td>
         <td></td>
         <td></td>
     </tr>
@@ -54,15 +51,14 @@ description:
         </td>
         <td></td>
         <td></td>
-        <td></td>
     </tr>
     </tbody>
 </table>
 
 * * *
 ### User persona
-<img src="img/user_persona_1.PNG" style="align: center;">
-<img src="img/user_persona_2.PNG" style="align: center;">
+<img align="left" width="870px" src="img/user_persona_1.PNG" style="align: center;">
+<img align="left" width="870px" src="img/user_persona_2.PNG" style="align: center;">
 * * *
 ### User stories
 
@@ -134,7 +130,7 @@ description:
 ### Use cases
 * * *
 ### User flows
-<table class="w2-table">
+<table class="w2-table" align="left">
   <tbody>
     <tr>
         <th>Future student flow</th>
@@ -142,10 +138,10 @@ description:
     </tr>
     <tr>
         <td>
-            <img src="img/UserFlow-FutureStudent.png">
+            <img align="left" src="img/UserFlow-FutureStudent.png">
         </td>
         <td>
-            <img src="img/UserFlow-Student.png">
+            <img align="left" src="img/UserFlow-Student.png">
         </td>
     </tr>
 
