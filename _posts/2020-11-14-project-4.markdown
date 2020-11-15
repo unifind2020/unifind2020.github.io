@@ -123,8 +123,8 @@ description:
 
 * * *
 ### Use cases
-[future student use case](img/future_student_use_case.PNG)
-[current student use case](img/current_student_use_case.PNG)
+![future student use case](img/future_student_use_case.PNG)
+![current student use case](img/current_student_use_case.PNG)
 * * *
 ### User flows
 <div>
