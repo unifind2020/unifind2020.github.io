@@ -142,15 +142,12 @@ description:
 ![current student use case](img/current_student_use_case.PNG)
 * * *
 ### User flows
+#### Future student flow and current student flow
 <div>
-    <div>
-        <a target="_blank" href="img/UserFlow-FutureStudent.png">
-            <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
-        </a>
-    </div>
-    <div>
-        <a target="_blank" href="img/UserFlow-Student.png">
-            <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
-        </a>
-    </div>
+    <a target="_blank" href="img/UserFlow-FutureStudent.png">
+        <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    </a>
+    <a target="_blank" href="img/UserFlow-Student.png">
+        <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+    </a>
 </div>
