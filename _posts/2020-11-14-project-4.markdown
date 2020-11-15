@@ -10,6 +10,21 @@ description:
 ---
 ### Interviews
 
+<div style="text-align: left;">
+    <p>We performed 5 interviews with our potential users and we tried to follow few questions:</p>
+    <ul>
+        <li>
+            <span>Something about them</span> 
+        </li>
+        <li>
+            <span>How was/is the process for choosing university and what challenges they faced</span> 
+        </li>
+        <li>
+            <span>We tried to understand how important feedback is and whether they would provide feedback</span> 
+        </li>
+    </ul>
+        </div>
+
 <table class="w3-table">
   <tbody>
     <tr>
@@ -127,10 +142,15 @@ description:
 ![current student use case](img/current_student_use_case.PNG)
 * * *
 ### User flows
-#### Future student flow
-<img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;">
-
-
-#### Current student flow
-<img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;">
-
+<div>
+    <div>
+        <a target="_blank" href="img/UserFlow-FutureStudent.png">
+            <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+        </a>
+    </div>
+    <div>
+        <a target="_blank" href="img/UserFlow-Student.png">
+            <img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
+        </a>
+    </div>
+</div>
