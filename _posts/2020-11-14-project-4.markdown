@@ -1,0 +1,136 @@
+---
+layout: default
+modal-id: 4
+date: 2020-11-14
+img: fourth_milestone.png
+alt: image-alt
+project-date: November 2020
+title: Milestone 4
+description:  
+---
+### Interviews
+
+<table class="w3-table">
+  <tbody>
+    <tr>
+        <th style="padding:0 20px 0 20px;">Interviews of high school students</th>
+        <th style="padding:0 20px 0 20px;">Interviews of university students</th>
+    </tr>
+    <tr>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/Highschool student-recording1.m4a" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/University student-recording1.m4a" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/Highschool student-recording2.m4a" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td style="padding:0 20px 0 20px;">
+             <audio controls="">
+                <source src="img/student.mp3" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/Highschool student-recording3.m4a" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td style="padding:0 20px 0 20px;"></td>
+    </tr>
+    </tbody>
+</table>
+
+* * *
+### User persona
+<img width="870px" src="img/user_persona_1.PNG" style="align: left; padding:0 -20px 0 -20px;">
+<img width="870px" src="img/user_persona_2.PNG" style="align: left; padding:0 -20px 0 -20px;">
+* * *
+### User stories
+
+<div class="row">
+    <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
+        <figure style="float: right;">
+            <img src="img/university-student.jpg">
+        </figure>
+    </div>
+    <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
+       <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 0px 8px; bottom: -8px;"></div>
+            <ul>
+                <li>
+                    <span style="font-weight:bold;">As future student, </span> 
+                    <span>I want to see what current students think about the faculties that interests me</span> 
+                </li>
+                <li>
+                    <span style="font-weight:bold;">As future student, </span> 
+                    <span>I want to be able to ask current students questions</span> 
+                </li>
+                <li>
+                    <span style="font-weight:bold;">As future student, </span> 
+                    <span>I want to receive authorized answers from students of those faculties</span> 
+                </li>
+                <li>
+                    <span style="font-weight:bold;">As future student, </span> 
+                    <span>I want to be up to date with the new answers to the questions</span> 
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
+        <figure class="figure" style="float: right;">
+            <img src="img/high-school-student.jpg">
+        </figure>
+    </div>
+    <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
+        <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 0px 8px; bottom: -8px;"></div>
+            <ul>
+                <li>
+                    <span style="font-weight:bold;">As current student, </span>
+                    <span>I want to help someone to make the right choice</span> 
+                </li>
+                    <li>
+                    <span style="font-weight:bold;">As current student, </span>
+                    <span>I want to share my experience and answer their curiosities</span> 
+                </li>
+                    <li>
+                    <span style="font-weight:bold;">As current student, </span>
+                    <span>I want the best students to come to my college</span> 
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+* * *
+### Use cases
+![future student use case](img/future_student_use_case.PNG)
+![current student use case](img/current_student_use_case.PNG)
+* * *
+### User flows
+#### Future student flow
+<img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;">
+
+
+#### Current student flow
+<img src="img/UserFlow-Student.png" style="align: left; padding:0 -20px 0 -20px;">
+
