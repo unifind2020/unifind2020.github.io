@@ -77,14 +77,14 @@ description:
 * * *
 ### User persona
 <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 text-center d-flex align-items-center justify-content-center" style="margin:auto;">
-        <figure class="figure">
-            <img src="img/user_persona_1.PNG" class="figure-img img-fluid rounded">
+    <div class="col-lg-8 col-lg-offset-2 text-center" style="margin:auto;">
+        <figure>
+            <img src="img/user_persona_1.PNG">
         </figure>
     </div>
-    <div class="col-lg-8 col-lg-offset-2 text-center d-flex align-items-center justify-content-center" style="margin:auto;">
-        <figure class="figure">
-            <img src="img/user_persona_2.PNG" class="figure-img img-fluid rounded">
+    <div class="col-lg-8 col-lg-offset-2 text-center" style="margin:auto;">
+        <figure>
+            <img src="img/user_persona_2.PNG">
         </figure>
     </div>
 </div>
@@ -93,12 +93,12 @@ description:
 
 <div class="row">
     <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
-        <figure class="figure" style="float: right;">
-            <img src="img/university-student.jpg" class="figure-img img-fluid rounded">
+        <figure style="float: right;">
+            <img src="img/university-student.jpg">
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="speech left">
+        <div class="boxed">
             <ul>
                 <li>
                     <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
@@ -126,11 +126,11 @@ description:
 <div class="row">
     <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
         <figure class="figure" style="float: right;">
-            <img src="img/high-school-student.jpg" class="figure-img img-fluid rounded">
+            <img src="img/high-school-student.jpg">
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="speech left">
+        <div class="boxed">
             <ul>
                 <li>
                     <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
