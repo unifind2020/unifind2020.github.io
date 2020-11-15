@@ -16,7 +16,7 @@ description:
   <tbody>
     <tr>
         <th>Interviews of high school students</th>
-        <th>Interviews of university students</th>
+        <th style="align: right">Interviews of university students</th>
     </tr>
     <tr>
         <td>
@@ -25,7 +25,7 @@ description:
                 Your browser does not support the audio tag.
             </audio>
         </td>
-        <td>
+        <td style="align: right">
             <audio controls="">
                 <source src="img/test.mp4" type="audio/mpeg">
                 Your browser does not support the audio tag.
@@ -76,15 +76,17 @@ description:
 #### Conclusions
 * * *
 ### User persona
-<div class="row d-flex align-items-center justify-content-center" style="margin:auto;">
-	<figure class="figure">
-		<img src="img/user_persona_1.PNG" class="figure-img img-fluid rounded">
-	</figure>
-</div>
-<div class="row d-flex align-items-center justify-content-center" style="margin:auto;">
-	<figure class="figure">
-		<img src="img/user_persona_2.PNG" class="figure-img img-fluid rounded">
-	</figure>
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2 text-center d-flex align-items-center justify-content-center" style="margin:auto;">
+        <figure class="figure">
+            <img src="img/user_persona_1.PNG" class="figure-img img-fluid rounded">
+        </figure>
+    </div>
+    <div class="col-lg-8 col-lg-offset-2 text-center d-flex align-items-center justify-content-center" style="margin:auto;">
+        <figure class="figure">
+            <img src="img/user_persona_2.PNG" class="figure-img img-fluid rounded">
+        </figure>
+    </div>
 </div>
 * * *
 ### User stories
@@ -92,11 +94,43 @@ description:
 <div class="row">
     <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
         <figure class="figure" style="float: right;">
-            <img src="img/university-student.png" class="figure-img img-fluid rounded">
+            <img src="img/university-student.jpg" class="figure-img img-fluid rounded">
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="box1 sb6">
+        <div class="speech left">
+            <ul>
+                <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+                 <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+                 <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+                 <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+                <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+                 <li>
+                    <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
+        <figure class="figure" style="float: right;">
+            <img src="img/high-school-student.jpg" class="figure-img img-fluid rounded">
+        </figure>
+    </div>
+    <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
+        <div class="speech left">
             <ul>
                 <li>
                     <span style="font-weight:bold;">I want to be able to make an appointment through an app or website</span> 
