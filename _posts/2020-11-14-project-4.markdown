@@ -65,8 +65,8 @@ description:
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="speech-bubble">
-            <div class="arrow bottom right"></div>
+       <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; width: 110px;text-align: center;padding: 20px;position: absolute;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 8px 0px; left: -8px;"></div>
             <ul>
                 <li>
                     <span style="font-weight:bold;">As future student, </span> 
@@ -96,8 +96,8 @@ description:
         </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
-        <div class="speech-bubble">
-            <div class="arrow bottom right"></div>
+        <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; width: 110px;text-align: center;padding: 20px;position: absolute;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 8px 0px; left: -8px;"></div>
             <ul>
                 <li>
                     <span style="font-weight:bold;">As current student, </span>
