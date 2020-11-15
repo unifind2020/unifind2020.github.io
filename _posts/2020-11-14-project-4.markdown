@@ -120,6 +120,7 @@ description:
 ### Use cases
 * * *
 ### User flows
- 
+<div style="width=1100px;"> 
 ![first user flow](img/UserFlow-FutureStudent.png) 
 ![second user flow](img/UserFlow-Student.png)
+</div>
