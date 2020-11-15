@@ -125,7 +125,7 @@ description:
 ### Use cases
 * * *
 ### User flows
-<div width="1200px;">
+<div width="1200px;" style="z-index: 100;">
     <a target="_blank" href="img/UserFlow-FutureStudent.png">
         <img src="img/UserFlow-FutureStudent.png" style="align: left; padding:0 -20px 0 -20px;" width="45%">
     </a>
