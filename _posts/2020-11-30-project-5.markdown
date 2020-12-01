@@ -25,6 +25,12 @@ description:
     </ul>
 </div>
 
+#### Before
+![before changes](img/before.PNG)
+
+#### After
+![after changes](img/before.PNG)
+
 ### Promoting the landing page
 
 ### Google Analytics
