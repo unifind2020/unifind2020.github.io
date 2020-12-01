@@ -1,0 +1,34 @@
+---
+layout: default
+modal-id: 5
+date: 2020-11-30
+img: fifth_milestone.png
+alt: image-alt
+project-date: November 2020
+title: Milestone 5
+description: 
+---
+
+### Landing page updates
+<div style="text-align: left;">
+    <p>Before we started promoting the landing page, we made some changes to it:</p>
+    <ul>
+        <li>
+            <p>We add a subscription section and a subscription dialog box that appears the first time you access the page and each time you reload.</p> 
+        </li>
+        <li>
+            <p>We change the first image on the landing page to better describe our work and what our application should do.</p> 
+        </li>
+        <li>
+            <p>We integrate Hotjar and Google Analytics.</p> 
+        </li>
+    </ul>
+</div>
+
+### Promoting the landing page
+
+### Google Analytics
+
+### Hotjar
+
+### Conclusions
