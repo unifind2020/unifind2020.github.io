@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+date: 2020-12-01
+img: sixth_milestone.png
+alt: image-alt
+project-date: December 2020
+title: Milestone 6
+description: 
+---
