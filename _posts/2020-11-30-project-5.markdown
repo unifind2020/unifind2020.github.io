@@ -36,28 +36,38 @@ description:
 
 After finishing the landing page, we started to share it on Facebook and Whatsapp where all of us are part of a comunity including many actual students, graduate students, high school students or their parents, in other words, our target audience.
 <div>
-    <img src="img/shere_post1.PNG" alt="share post 1" style="align: left; padding:0 -20px 0 -20px;" width="33%">
-    <img src="img/shere_post2.PNG" alt="share post 2" style="align: left; padding:0 -20px 0 -20px;" width="33%">
-    <img src="img/shere_post3.PNG" alt="share post 3" style="align: left; padding:0 -20px 0 -20px;" width="33%">
+    <img src="img/shere_post1.PNG" alt="share post 1" width="33%">
+    <img src="img/shere_post2.PNG" alt="share post 2" width="33%">
+    <img src="img/shere_post3.PNG" alt="share post 3" width="33%">
 </div>
 
-Many people were delighted with the idea and many of them subscribed to our newsletter.
+Many people liked the idea and many of them subscribed to our newsletter.
+
+#### Subscription emails
 
 ![formspree](img/formspree.PNG)
+
+#### Subscribers
+
 ![subscribers](img/subscribers.PNG)
 
 ### Google Analytics
+
 We share the landing page on December 2nd and 3rd and these days brought us the largest number of users, which gradually decreased, as expected.
 
 ![users](img/users.PNG)
 
 People came to our page directly accessing its link or through Facebook, the main channel we used to share.
+
 ![referral](img/referral.PNG)
 
-Most of the traffic comes from Romania as expected from our share posts, but also from other countries and with a good involvement rate which enjoy us.
+Most of the traffic comes from Romania as expected from our share posts, but also from other countries and with a good involvement rate which
+enjoy us.
+
 ![countries](img/countries.PNG)
 
 Most people accessed the page using a mobile device, which proves that our choice to make a mobile app was good.
+
 ![technologies](img/technologies.PNG)
 
 ### Hotjar
