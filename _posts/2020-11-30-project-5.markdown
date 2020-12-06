@@ -89,11 +89,17 @@ Since sharing the landing page we got 4 positive feedbacks, but without any othe
 
 ![technologies](img/feedback.png)
 
+* * *
 #### Heatmap
 
-We have made public the heatmap with the statistics for the desktop and mobile versions at the following [link](https://insights.hotjar.com/h?site=2132038&heatmap=7079153&token=d83f4f462715cb0bf731097faee0db35)
-At the moment we draw these conclusions, Hotjar registers 293 total accesses, 85 for the desktop version and 208 for the mobile one. About 85% of users were interested in finding out what's below the initial presentation, and 37% managed to get to the bottom of the page. Because the subscribe form is the first to appear when the page opens, most clicks have been made inside it. Next, visitors were interested in the areas presented in the navigation bar, namely Download, Features and Contact. Enough were eager enough to press Start now for free! or on the representative icons of the operating systems on which the application will be launched, even if it was mentioned that the application is still in development. In the end, the fewest wanted to view our Facebook page, get our email address, or give us feedback. These things can only confirm that there is interest in this application.
+We have made public the heatmap with the statistics for the desktop and mobile versions at the following [link](https://insights.hotjar.com/h?site=2132038&heatmap=7079153&token=d83f4f462715cb0bf731097faee0db35).
+At the moment we draw these conclusions, Hotjar registers 293 total accesses, 85 for the desktop version and 208 for the mobile one. About 85% of users were interested in finding out what's below the initial presentation, and 37% managed to get to the bottom of the page.
 
+Because the subscribe form is the first to appear when the page opens, most clicks have been made inside it. Next, visitors were interested in the areas presented in the navigation bar, namely Download, Features and Contact. Enough were eager enough to press Start now for free! or on the representative icons of the operating systems on which the application will be launched, even if it was mentioned that the application is still in development.
+
+In the end, the fewest wanted to view our Facebook page, get our email address, or give us feedback. These things can only confirm that there is interest in this application.
+
+* * *
 #### User recordings
 
 <div style="text-align: left;">
@@ -111,6 +117,7 @@ At the moment we draw these conclusions, Hotjar registers 293 total accesses, 85
     </ul>
 </div>
 
+* * *
 #### Conversion rate
 
 The conversion rate should be obtained depending on the users who choose to buy / use the application, but as it is not yet the case, we will take into account something else. Our goal was for as many people as possible to subscribe to the newsletter, so from the 133 unique users who accessed our page and the approximately 22 valid registrations (out of the 31 registrations that Formspree displays, we excluded test records and invalid ones), we get a conversion rate of 16.54%.
@@ -119,4 +126,6 @@ The conversion rate should be obtained depending on the users who choose to buy 
 ### Conclusions
 <hr class="star-primary">
 
-In order to distribute the landing page, we mostly used Facebook solutions, namely Messenger and WhatsApp, but also posts on our Facebook profiles. We used instant messaging solutions as a back-up for the situation where Facebook posts do not reach enough people, but we were pleasantly surprised that they had a considerable reach, the most important reaction being from a famous computer science teacher from Romania who, when viewing our initiative, chose to distribute the landing page on his facebook and to write some encouraging words about us. This motivates us even more to develop a great application. Thus, we can say that through the posts on Facebook we managed to attract the most and uninfluenced users.
+In order to distribute the landing page, we mostly used Facebook solutions, namely Messenger and WhatsApp, but also posts on our Facebook profiles. We used instant messaging solutions as a back-up for the situation where Facebook posts do not reach enough people, but we were pleasantly surprised that they had a considerable reach, the most important reaction being from a famous computer science teacher from Romania who, when viewing our initiative, chose to distribute the landing page on his facebook and to write some encouraging words about us. 
+
+This motivates us even more to develop a great application. Thus, we can say that through the posts on Facebook we managed to attract the most and uninfluenced users.
