@@ -31,11 +31,11 @@ According to the official website of the Minister of Education [^1] [^2] the num
 Because we are only talking about romanian universities, there are very few direct competitors. There are about 4 big competitors (Zonka, WhatUni?, StudentCrowd, EduMatch) who are doing the same thing as us, but even though they do have some universities from our country on their website, none of them have this as their main target, Also, the total traffic on this websites coming from romanian users is around 1000 visitors. [^4]
 
 <br><br>
-* * * 
 
 #### Optiuni universitare
 
 ![optiuni](img/optiuni-logo.png)
+<br>
 This is the only website that has as a main target the universities from our country. This is the closest competitor for us, because their market is also represented by the high school students. The difference between us and them is that we offer feedback about the faculties, while “Optiuni universitare”[^7] only states official information about them. We also target the students who are already at university, by giving them more insights about different aspects on university life.
 
 “Optiuni Universitare” earns a profit using a pay-per-click model. Most clicks on “Optiuni Universitare” cost between  $0.03 - $0.17. The site also earns revenue through traditional website advertising.
@@ -220,7 +220,7 @@ Our main source of income will be from Advertisments.
         </td>
     </tr>
     </tbody>
-</table><br><br><br>
+</table><br><br>
 
 <p style="font-size:11pt;">
     Number of users = market_share * size_of_market<br>
