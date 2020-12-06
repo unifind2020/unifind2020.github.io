@@ -36,9 +36,9 @@ description:
 
 After finishing the landing page, we started to share it on Facebook and Whatsapp where all of us are part of a comunity including many actual students, graduate students, high school students or their parents, in other words, our target audience.
 <div>
-    <img src="img/shere_post1.PNG" alt="share post 1" width="33%">
-    <img src="img/shere_post2.PNG" alt="share post 2" width="33%">
-    <img src="img/shere_post3.PNG" alt="share post 3" width="33%">
+    <img src="img/shere_post1.PNG" alt="share post 1">
+    <img src="img/shere_post2.PNG" alt="share post 2">
+    <img src="img/shere_post3.PNG" alt="share post 3">
 </div>
 
 Many people liked the idea and many of them subscribed to our newsletter.
