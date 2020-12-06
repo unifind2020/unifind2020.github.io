@@ -78,6 +78,8 @@ Most people accessed the page using a mobile device, which proves that our choic
 
 * * *
 ### Hotjar
+<hr class="star-primary">
 
 * * *
 ### Conclusions
+<hr class="star-primary">
