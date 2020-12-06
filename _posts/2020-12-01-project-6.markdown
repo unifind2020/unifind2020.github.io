@@ -245,7 +245,7 @@ Our main source of income will be from Advertisments.
 * * *
 
 [^1]: https://www.siiir.edu.ro/carto/#/statistici
-[^2]: https://www.edu.ro/sites/default/files/Raport%20privind%20starea%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2ntului%20preuniversitar%20din%20Rom%C3%A2nia_2017-2018_0.pdf
+[^2]: https://bit.ly/39KkmsE
 [^3]: http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table
 [^4]: https://www.semrush.com/analytics/traffic/
 [^5]: https://www.semrush.com/analytics/traffic/overview/www.optiuni.ro
