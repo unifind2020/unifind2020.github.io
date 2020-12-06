@@ -34,6 +34,8 @@ Because we are only talking about romanian universities, there are very few dire
 * * * 
 
 #### Optiuni universitare
+
+![optiuni](img/optiuni-logo.png)
 This is the only website that has as a main target the universities from our country. This is the closest competitor for us, because their market is also represented by the high school students. The difference between us and them is that we offer feedback about the faculties, while “Optiuni universitare”[^7] only states official information about them. We also target the students who are already at university, by giving them more insights about different aspects on university life.
 
 “Optiuni Universitare” earns a profit using a pay-per-click model. Most clicks on “Optiuni Universitare” cost between  $0.03 - $0.17. The site also earns revenue through traditional website advertising.
