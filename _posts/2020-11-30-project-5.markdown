@@ -14,13 +14,14 @@ description:
     <p>Before we started promoting the landing page, we made some changes to it:</p>
     <ul>
         <li>
-            <p>We add a subscription section and a subscription dialog box that appears the first time you access the page and each time you reload.</p> 
+            <p>We added a subscription section and a subscription dialog box that appears the first time you access the page and each time you reload.</p> 
+            <img src="img/subscribe.PNG" style="align: left; padding:0 -20px 0 -20px;">
         </li>
         <li>
-            <p>We change the first image on the landing page to better describe our work and what our application should do.</p> 
+            <p>We changed the first image on the landing page to better describe our work and what our application should do.</p> 
         </li>
         <li>
-            <p>We integrate Hotjar and Google Analytics.</p> 
+            <p>We integrated Hotjar and Google Analytics.</p> 
         </li>
     </ul>
 </div>
@@ -29,11 +30,35 @@ description:
 ![before changes](img/before.PNG)
 
 #### After
-![after changes](img/before.PNG)
+![after changes](img/after.PNG)
 
 ### Promoting the landing page
 
+After finishing the landing page, we started to share it on Facebook and Whatsapp where all of us are part of a comunity including many actual students, graduate students, high school students or their parents, in other words, our target audience.
+<div>
+    <img src="img/shere_post1.PNG" alt="share post 1" style="align: left; padding:0 -20px 0 -20px;" width="33%">
+    <img src="img/shere_post2.PNG" alt="share post 2" style="align: left; padding:0 -20px 0 -20px;" width="33%">
+    <img src="img/shere_post3.PNG" alt="share post 3" style="align: left; padding:0 -20px 0 -20px;" width="33%">
+</div>
+
+Many people were delighted with the idea and many of them subscribed to our newsletter.
+
+![formspree](img/formspree.PNG)
+![subscribers](img/subscribers.PNG)
+
 ### Google Analytics
+We share the landing page on December 2nd and 3rd and these days brought us the largest number of users, which gradually decreased, as expected.
+
+![users](img/users.PNG)
+
+People came to our page directly accessing its link or through Facebook, the main channel we used to share.
+![referral](img/referral.PNG)
+
+Most of the traffic comes from Romania as expected from our share posts, but also from other countries and with a good involvement rate which enjoy us.
+![countries](img/countries.PNG)
+
+Most people accessed the page using a mobile device, which proves that our choice to make a mobile app was good.
+![technologies](img/technologies.PNG)
 
 ### Hotjar
 
