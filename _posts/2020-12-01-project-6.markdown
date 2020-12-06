@@ -8,3 +8,105 @@ project-date: December 2020
 title: Milestone 6
 description: 
 ---
+
+### Target Market
+<hr class="star-primary">
+
+Any good business has a target market well defined. Saying that a business targets anyone who is interested is too general and brings no benefits. Usually, the target market can be identified by looking at the other similar products, but this is not always the best idea as they may overlook a niche market.
+UniFind is targeting 2 sub markets, those being, on the one side, the students who are already in university, because either they want to find more information about some certain aspects or they want to leave a review, and, on the other side, the high school students who are in their last or penultimate year and are searching data about different faculties in order to make the best choice for them regarding their studies. There are also some smaller sub markets, made up of the parents of the students or active professionals who are seeking to obtain an university diploma.
+
+According to the official website of the Minister of Education [^1] [^2] the number of high school students is around 637700. If we take into account only the students in their last or penultimate year of high school, the number should be around 300000. Also, the number of active students in Romanian universities is around 407363 [^3].
+
+* * *
+
+### Competitors in our targeted market
+<hr class="star-primary">
+
+1. Zonka, WhatUni?, StudentCrowd, EduMatch
+Because we are only talking about romanian universities, there are very few direct competitors. There are about 4 big competitors (Zonka, WhatUni?, StudentCrowd, EduMatch) who are doing the same thing as us, but even though they do have some universities from our country on their website, none of them have this as their main target, Also, the total traffic on this websites coming from romanian users is around 1000 visitors. ([^4]())
+
+2. [Optiuni universitare](https://www.optiuni.ro/)[optiuni](img/optiuni-logo.png)
+This is the only website that has as a main target the universities from our country. This is the closest competitor for us, because their market is also represented by the high school students. The difference between us and them is that we offer feedback about the faculties, while “Optiuni universitare” only states official information about them. We also target the students who are already at university, by giving them more insights about different aspects on university life.
+
+“Optiuni Universitare” earns a profit using a pay-per-click model. Most clicks on “Optiuni Universitare” cost between  $0.03 - $0.17. The site also earns revenue through traditional website advertising.
+
+To determinate the market share of the competition we use as reference the number of active users in a month. On average, every month, there are over 100300 people who access this site [^5], so the market share for “Optiuni Universitare” in Romania is around 53%.
+
+| Website              | Visitors (yearly)  | Market share |
+| :------------------: | :----------------: | :----------: |
+| Zonka                | 624d               | 0.005%       |
+| WhatUni              | 24000              | 0.02%        |
+| StudentCrowd         | 10104              | 0.01%        |
+| EduMatch             | 16342              | 0.015%       |
+| Optiuni Universitare | 1.2M               | 95%          |
+
+* * *
+
+
+### Potential market share in first 5 years
+<hr class="star-primary">
+
+We estimate that the total number of active users will remain around the same value in the next 5 years, based on the number of elementary and highschool students [^6].
+In the first year, based on our research and competition, we are looking forward to get 20% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 15% of active users. Following years, we estimate a exponential growth.
+
+ 
+| Year       | Market share |
+| ---------- | ------------ |
+| 1          | 20%          |
+| 2          | 35%          |
+| 3          | 50%          |
+| 4          | 65%          |
+| 5          | 75%          |
+
+* * *
+
+### Market Value in first 5 years
+<hr class="star-primary">
+
+Our main source of income will be from Advertisments. 
+
+| Year       | Market Value     |
+| ---------- | ---------------- |
+| 1          | 273501.8$        |
+| 2          | 478628.15$       |
+| 3          | 683754.5$        |
+| 4          | 888880.85$       |
+| 5          | 1025631.75$      
+|
+Number of users = market_share * size_of_market
+Average_user_spend_time_day = 30 minutes = 1800 seconds
+90 seconds refresh for ads => 20 ads(impressions) per user per day 
+
+The rates for Romania are $0.17 for CPC (Cost per Click) and $0.03 for CPM (Cost per Thousand Impressions) [^7] 
+
+1 click every 100 impressions => the average user will get us:
+CPC_per_user_per_day = 20 / 100 * 0.17 = 0.034$
+CPM_per_user_per_day = 20 / 1000 * 0.03 = 0.0006
+
+Total_revenue_per_user_per_day = 0.03406$
+Total_revenue_per_user_per_year = 12.4319
+
+Number of users_year_1 = 0.2 * 110000 = 22000
+Total_revenue_year_1 = 22000 * 12.4319 = 273501.8$
+
+Number of users_year_2 = 0.35 * 110000 = 38500
+Total_revenue_year_2 = 38500 * 12.4319 = 478628.15$
+
+Number of users_year_3 = 0.5 * 110000 = 55000
+Total_revenue_year_3 = 55000 * 12.4319 = 683754.5$
+
+Number of users_year_4 = 0.65 * 110000 = 71500
+Total_revenue_year_4 = 71500 * 12.4319 = 888880.85$
+
+Number of users_year_5 = 0.75 * 110000 = 82500
+Total_revenue_year_5 = 82500 * 12.4319 = 1025631.75$
+
+* * *
+
+[^1]: https://www.siiir.edu.ro/carto/#/statistici
+[^2]: https://www.edu.ro/sites/default/files/Raport%20privind%20starea%20%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2ntului%20preuniversitar%20din%20Rom%C3%A2nia_2017-2018_0.pdf
+[^3]: http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table
+[^4]: https://www.semrush.com/analytics/traffic/
+[^5]: https://www.semrush.com/analytics/traffic/overview/www.optiuni.ro
+[^6]: https://www.siiir.edu.ro/carto/#/statistici
+[^7]: http://www.rudibedy.com/blog/facebook-advertising-cpc-cpm-per-country/
