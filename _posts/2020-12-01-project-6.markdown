@@ -41,9 +41,9 @@ To determinate the market share of the competition we use as reference the numbe
 <table class="w3-table-all w3-hoverable">
   <tbody>
     <tr>
-        <th>Website</th>
-        <th>Visitors (yearly)</th>
-        <th>Market share</th>
+        <th><h3>Website</h3></th>
+        <th><h3>Visitors (yearly)</h3></th>
+        <th><h3>Market share</h3></th>
     </tr>
     <tr>
         <td>
@@ -115,8 +115,8 @@ In the first year, based on our research and competition, we are looking forward
 <table class="w3-table-all w3-hoverable">
   <tbody>
     <tr>
-        <th>Year</th>
-        <th>Market share</th>
+        <th><h3>Year</h3></th>
+        <th><h3>Market share</h3></th>
     </tr>
     <tr>
         <td>
@@ -171,8 +171,8 @@ Our main source of income will be from Advertisments.
 <table class="w3-table-all w3-hoverable">
   <tbody>
     <tr>
-        <th>Year</th>
-        <th>Market value</th>
+        <th><h3>Year</h3></th>
+        <th><h3>Market value</h3></th>
     </tr>
     <tr>
         <td>
@@ -217,33 +217,35 @@ Our main source of income will be from Advertisments.
     </tbody>
 </table><br><br><br>
 
-Number of users = market_share * size_of_market
-Average_user_spend_time_day = 30 minutes = 1800 seconds
-90 seconds refresh for ads => 20 ads(impressions) per user per day 
+<p style="font-size:11pt; font-style:italic">
+    Number of users = market_share * size_of_market
+    Average_user_spend_time_day = 30 minutes = 1800 seconds
+    90 seconds refresh for ads => 20 ads(impressions) per user per day 
 
-The rates for Romania are $0.17 for CPC (Cost per Click) and $0.03 for CPM (Cost per Thousand Impressions) [^7] 
+    The rates for Romania are $0.17 for CPC (Cost per Click) and $0.03 for CPM (Cost per Thousand Impressions) [^7] 
 
-1 click every 100 impressions => the average user will get us:
-CPC_per_user_per_day = 20 / 100 * 0.17 = 0.034$
-CPM_per_user_per_day = 20 / 1000 * 0.03 = 0.0006
+    1 click every 100 impressions => the average user will get us:
+    CPC_per_user_per_day = 20 / 100 * 0.17 = 0.034$
+    CPM_per_user_per_day = 20 / 1000 * 0.03 = 0.0006
 
-Total_revenue_per_user_per_day = 0.03406$
-Total_revenue_per_user_per_year = 12.4319
+    Total_revenue_per_user_per_day = 0.03406$
+    Total_revenue_per_user_per_year = 12.4319
 
-Number of users_year_1 = 0.2 * 110000 = 22000
-Total_revenue_year_1 = 22000 * 12.4319 = 273501.8$
+    Number of users_year_1 = 0.2 * 110000 = 22000
+    Total_revenue_year_1 = 22000 * 12.4319 = 273501.8$
 
-Number of users_year_2 = 0.35 * 110000 = 38500
-Total_revenue_year_2 = 38500 * 12.4319 = 478628.15$
+    Number of users_year_2 = 0.35 * 110000 = 38500
+    Total_revenue_year_2 = 38500 * 12.4319 = 478628.15$
 
-Number of users_year_3 = 0.5 * 110000 = 55000
-Total_revenue_year_3 = 55000 * 12.4319 = 683754.5$
+    Number of users_year_3 = 0.5 * 110000 = 55000
+    Total_revenue_year_3 = 55000 * 12.4319 = 683754.5$
 
-Number of users_year_4 = 0.65 * 110000 = 71500
-Total_revenue_year_4 = 71500 * 12.4319 = 888880.85$
+    Number of users_year_4 = 0.65 * 110000 = 71500
+    Total_revenue_year_4 = 71500 * 12.4319 = 888880.85$
 
-Number of users_year_5 = 0.75 * 110000 = 82500
-Total_revenue_year_5 = 82500 * 12.4319 = 1025631.75$
+    Number of users_year_5 = 0.75 * 110000 = 82500
+    Total_revenue_year_5 = 82500 * 12.4319 = 1025631.75$
+</p>
 
 * * *
 
