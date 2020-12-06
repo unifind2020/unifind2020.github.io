@@ -10,6 +10,7 @@ description:
 ---
 
 ### Landing page updates
+<hr class="star-primary">
 <div style="text-align: left;">
     <p>Before we started promoting the landing page, we made some changes to it:</p>
     <ul>
@@ -32,27 +33,32 @@ description:
 #### After
 ![after changes](img/after.PNG)
 
+* * *
 ### Promoting the landing page
+<hr class="star-primary">
 
 After finishing the landing page, we started to share it on Facebook and Whatsapp where all of us are part of a comunity including many actual students, graduate students, high school students or their parents, in other words, our target audience.
 <div>
-    <img src="img/shere_post1.PNG" alt="share post 1">
-    <img src="img/shere_post2.PNG" alt="share post 2">
-    <img src="img/shere_post3.PNG" alt="share post 3">
+    <img src="img/share_post1.PNG" alt="share post 1" width="33%">
+    <img src="img/share_post2.PNG" alt="share post 2" width="33%">
+    <img src="img/share_post3.PNG" alt="share post 3" width="33%">
 </div>
 
 Many people liked the idea and many of them subscribed to our newsletter.
 
+* * *
 #### Subscription emails
 
 ![formspree](img/formspree.PNG)
 
+* * *
 #### Subscribers
 
 ![subscribers](img/subscribers.PNG)
 
+* * *
 ### Google Analytics
-
+<hr class="star-primary">
 We share the landing page on December 2nd and 3rd and these days brought us the largest number of users, which gradually decreased, as expected.
 
 ![users](img/users.PNG)
@@ -70,6 +76,8 @@ Most people accessed the page using a mobile device, which proves that our choic
 
 ![technologies](img/technologies.PNG)
 
+* * *
 ### Hotjar
 
+* * *
 ### Conclusions
