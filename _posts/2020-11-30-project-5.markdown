@@ -59,7 +59,10 @@ Many people liked the idea and many of them subscribed to our newsletter.
 * * *
 ### Google Analytics
 <hr class="star-primary">
+
+We analyzed the traffic between December 2-6, and during this period a number of 168 people visited the landing page.
 We share the landing page on December 2nd and 3rd and these days brought us the largest number of users, which gradually decreased, as expected.
+There were 223 sessions with an average session duration of 28 seconds, being a good and enough time to browse the information.
 
 ![users](img/users.PNG)
 
@@ -80,6 +83,49 @@ Most people accessed the page using a mobile device, which proves that our choic
 ### Hotjar
 <hr class="star-primary">
 
+#### Feedback
+
+Since sharing the landing page we got 4 positive feedbacks, but without any other message attached.
+
+![technologies](img/feedback.png)
+
+* * *
+#### Heatmap
+
+We have made public the heatmap with the statistics for the desktop and mobile versions at the following [link](https://insights.hotjar.com/h?site=2132038&heatmap=7079153&token=d83f4f462715cb0bf731097faee0db35).
+At the moment we draw these conclusions, Hotjar registers 293 total accesses, 85 for the desktop version and 208 for the mobile one. About 85% of users were interested in finding out what's below the initial presentation, and 37% managed to get to the bottom of the page.
+
+Because the subscribe form is the first to appear when the page opens, most clicks have been made inside it. Next, visitors were interested in the areas presented in the navigation bar, namely Download, Features and Contact. Enough were eager enough to press Start now for free! or on the representative icons of the operating systems on which the application will be launched, even if it was mentioned that the application is still in development.
+
+In the end, the fewest wanted to view our Facebook page, get our email address, or give us feedback. These things can only confirm that there is interest in this application.
+
+* * *
+#### User recordings
+
+<div style="text-align: left;">
+    <p>In these 5 days since we activated Hotjar, 164 user recordings were captured, 133 of them being from new users. Looking at these recordings, we noticed 3 types of users:</p>
+    <ul>
+        <li>
+            <p>those who are not interested in the subject, scroll to the page without reading the text or access any links (they mostly close the subscribe form);</p> 
+        </li>
+        <li>
+            <p>those who are interested in the subject, taking the time needed to discover everything about the product and interact with what is present on the page (they mostly fill in the subscribe form from the beginning);</p> 
+        </li>
+        <li>
+            <p>those who are not aware of the subject, close the subscribe form from the beginning, but after viewing the entire page and probably browsing other sites (this can be understood from sessions longer than a few minutes), they choose to subscribe to the newsletter.</p> 
+        </li>
+    </ul>
+</div>
+
+* * *
+#### Conversion rate
+
+The conversion rate should be obtained depending on the users who choose to buy / use the application, but as it is not yet the case, we will take into account something else. Our goal was for as many people as possible to subscribe to the newsletter, so from the 133 unique users who accessed our page and the approximately 22 valid registrations (out of the 31 registrations that Formspree displays, we excluded test records and invalid ones), we get a conversion rate of 16.54%.
+
 * * *
 ### Conclusions
 <hr class="star-primary">
+
+In order to distribute the landing page, we mostly used Facebook solutions, namely Messenger and WhatsApp, but also posts on our Facebook profiles. We used instant messaging solutions as a back-up for the situation where Facebook posts do not reach enough people, but we were pleasantly surprised that they had a considerable reach, the most important reaction being from a famous computer science teacher from Romania who, when viewing our initiative, chose to distribute the landing page on his facebook and to write some encouraging words about us. 
+
+This motivates us even more to develop a great application. Thus, we can say that through the posts on Facebook we managed to attract the most and uninfluenced users.
