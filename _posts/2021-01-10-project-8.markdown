@@ -1,0 +1,254 @@
+---
+layout: default
+modal-id: 6
+date: 2021-01-10
+img: eighth_milestone.png
+alt: image-alt
+project-date: January 2021
+title: Milestone 8
+description: 
+---
+
+### Target Market
+<hr class="star-primary">
+
+Any good business has a target market well defined. Saying that a business targets anyone who is interested is too general and brings no benefits. Usually, the target market can be identified by looking at the other similar products, but this is not always the best idea as they may overlook a niche market.
+UniFind is targeting 2 sub markets, those being, on the one side, the students who are already in university, because either they want to find more information about some certain aspects or they want to leave a review, and, on the other side, the high school students who are in their last or penultimate year and are searching data about different faculties in order to make the best choice for them regarding their studies. There are also some smaller sub markets, made up of the parents of the students or active professionals who are seeking to obtain an university diploma.
+
+According to the official website of the Minister of Education [^1] [^2] the number of high school students is around 637700. If we take into account only the students in their last or penultimate year of high school, the number should be around 300000. Also, the number of active students in Romanian universities is around 407363 [^3].
+
+* * *
+
+### Competitors in our targeted market
+<hr class="star-primary">
+<br>
+
+![zonka](img/zonka-logo15.webp)
+![whatuni](img/logo_print.png)
+![studentcrowd](img/studentcrowd-300x150.jpg)
+![edumatch](img/Ce-trebuie-sa-stii.png)
+
+Because we are only talking about romanian universities, there are very few direct competitors. There are about 4 big competitors (Zonka, WhatUni?, StudentCrowd, EduMatch) who are doing the same thing as us, but even though they do have some universities from our country on their website, none of them have this as their main target, Also, the total traffic on this websites coming from romanian users is around 1000 visitors. [^4]
+
+<br><br>
+
+![optiuni](img/optiuni-logo.png)
+<br>
+This is the only website that has as a main target the universities from our country. This is the closest competitor for us, because their market is also represented by the high school students. The difference between us and them is that we offer feedback about the faculties, while “Optiuni universitare”[^7] only states official information about them. We also target the students who are already at university, by giving them more insights about different aspects on university life.
+
+“Optiuni Universitare” earns a profit using a pay-per-click model. Most clicks on “Optiuni Universitare” cost between  $0.03 - $0.17. The site also earns revenue through traditional website advertising.
+
+To determinate the market share of the competition we use as reference the number of active users in a month. On average, every month, there are over 100300 people who access this site [^5], so the market share for “Optiuni Universitare” in Romania is around 53%.
+<br><br><br><br>
+
+<table class="w3-table-all w3-hoverable">
+  <tbody>
+    <tr>
+        <th><p>Website</p></th>
+        <th><p>Visitors (yearly)</p></th>
+        <th><p>Market share</p></th>
+    </tr>
+    <tr>
+        <td>
+            <p>Zonka</p>
+        </td>
+        <td>
+            <p>624</p>
+        </td>
+        <td>
+            <p>0.005%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>WhatUni</p>
+        </td>
+        <td>
+            <p>24000</p>
+        </td>
+        <td>
+            <p>0.02%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>StudentCrowd</p>
+        </td>
+        <td>
+            <p>10104</p>
+        </td>
+        <td>
+            <p>0.01%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>EduMatch</p>
+        </td>
+        <td>
+            <p>16342</p>
+        </td>
+        <td>
+            <p>0.015%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Optiuni Universitare</p>
+        </td>
+        <td>
+            <p>1.2M</p>
+        </td>
+        <td>
+            <p>95%</p>
+        </td>
+    </tr>
+    </tbody>
+</table><br><br>
+
+* * *
+
+
+### Potential market share in first 5 years
+<hr class="star-primary">
+
+We estimate that the total number of active users will remain around the same value in the next 5 years, based on the number of elementary and highschool students [^1].
+In the first year, based on our research and competition, we are looking forward to get 20% of the current market share. The next year, through good feedback and numerous ads, we aim to get on our platform another 15% of active users. Following years, we estimate a exponential growth.
+<br><br>
+<table class="w3-table-all w3-hoverable">
+  <tbody>
+    <tr>
+        <th><p>Year</p></th>
+        <th><p>Market share</p></th>
+    </tr>
+    <tr>
+        <td>
+            <p>1</p>
+        </td>
+        <td>
+            <p>20%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>2</p>
+        </td>
+        <td>
+            <p>35%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>3</p>
+        </td>
+        <td>
+            <p>50%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>4</p>
+        </td>
+        <td>
+            <p>65%</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>5</p>
+        </td>
+        <td>
+            <p>75%</p>
+        </td>
+    </tr>
+    </tbody>
+</table><br><br>
+
+* * *
+
+### Market Value in first 5 years
+<hr class="star-primary">
+
+Our main source of income will be from Advertisments. 
+<br><br>
+<table class="w3-table-all w3-hoverable">
+  <tbody>
+    <tr>
+        <th><p>Year</p></th>
+        <th><p>Market value</p></th>
+    </tr>
+    <tr>
+        <td>
+            <p>1</p>
+        </td>
+        <td>
+            <p>273501.8$</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>2</p>
+        </td>
+        <td>
+            <p>478628.15$</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>3</p>
+        </td>
+        <td>
+            <p>683754.5$</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>4</p>
+        </td>
+        <td>
+            <p>888880.85$</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>5</p>
+        </td>
+        <td>
+            <p>1025631.75$</p>
+        </td>
+    </tr>
+    </tbody>
+</table><br><br>
+
+<p style="font-size:11pt;">
+    Number of users = market_share * size_of_market<br>
+    Average_user_spend_time_day = 30 minutes = 1800 seconds<br>
+    90 seconds refresh for ads => 20 ads(impressions) per user per day <br>
+    The rates for Romania are $0.17 for CPC (Cost per Click) and $0.03 for CPM (Cost per Thousand Impressions)<a href="#footnote-6">[6]</a><br><br>
+    1 click every 100 impressions => the average user will get us:<br>
+    CPC_per_user_per_day = 20 / 100 * 0.17 = 0.034$<br>
+    CPM_per_user_per_day = 20 / 1000 * 0.03 = 0.0006<br><br>
+    Total_revenue_per_user_per_day = 0.03406$<br>
+    Total_revenue_per_user_per_year = 12.4319<br><br>
+    Number of users_year_1 = 0.2 * 110000 = 22000<br>
+    Total_revenue_year_1 = 22000 * 12.4319 = 273501.8$<br><br>
+    Number of users_year_2 = 0.35 * 110000 = 38500<br>
+    Total_revenue_year_2 = 38500 * 12.4319 = 478628.15$<br><br>
+    Number of users_year_3 = 0.5 * 110000 = 55000<br>
+    Total_revenue_year_3 = 55000 * 12.4319 = 683754.5$<br><br>
+    Number of users_year_4 = 0.65 * 110000 = 71500<br>
+    Total_revenue_year_4 = 71500 * 12.4319 = 888880.85$<br><br>
+    Number of users_year_5 = 0.75 * 110000 = 82500<br>
+    Total_revenue_year_5 = 82500 * 12.4319 = 1025631.75$<br><br>
+</p>
+
+* * *
+
+[^1]: https://www.siiir.edu.ro/carto/#/statistici
+[^2]: https://bit.ly/39KkmsE
+[^3]: http://statistici.insse.ro:8077/tempo-online/#/pages/tables/insse-table
+[^4]: https://www.semrush.com/analytics/traffic/
+[^5]: https://www.semrush.com/analytics/traffic/overview/www.optiuni.ro
+[^6]: http://www.rudibedy.com/blog/facebook-advertising-cpc-cpm-per-country/
+[^7]: https://www.optiuni.ro/
+

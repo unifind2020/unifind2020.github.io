@@ -1,0 +1,106 @@
+---
+layout: default
+modal-id: 1
+date: 2021-01-09
+img: seventh_milestone.png
+alt: image-alt
+project-date: January 2021
+title: Milestone 7
+description:  
+---
+### Building MVP
+
+<hr class="star-primary">
+<div style="text-align: left;">
+    <p>Based on the answers received for the validation of the problem and the solution (M2, M5), as well as the market research (M6), we have the following findings that present the basic features of the MVP:</p>
+    <ul>
+        <li>
+            <p>interviews and presence on the landing page show a predisposition to use the phone among customer segments, so we have a mobile solution; we have developed an early prototype available for phones running Android, which has not yet been uploaded to the Google Play Store</p> 
+        </li>
+        <li>
+            <p>from the responses of students who were worried that their feedback would go unnoticed and from the feedback received during Midterm Presentations on malevolent people, we decided to have a ranking system, so well-intentioned users and responses to be promoted and rewarded within the application</p> 
+        </li>
+        <li>
+            <p>to ensure that feedback on a faculty only comes from people who attend that faculty, the email address at the faculty must be used to create current student accounts, which must then be verified</p> 
+        </li>
+         <li>
+            <p>because additional questions/opinions may appear following a feedback or a question, we also added the conversation threading feature</p> 
+        </li>
+    </ul>
+</div>
+
+#### Features
+
+<div style="text-align: left;">
+    <p>The features of this early prototype are:</p>
+    <ul>
+        <li>
+            <p>user registration and login authentication for future and actual students</p> 
+        </li>
+        <li>
+            <p>5 top universities in Romania (UPB, UB, ASE, UBB, and UAIC) are added along with their faculties</p> 
+        </li>
+        <li>
+            <p>verification based on student email for the mentioned universities</p> 
+        </li>
+         <li>
+            <p>adding posts: questions by future students and feedback by current students</p> 
+        </li>
+        <li>
+            <p>ranking system to upgrade/downgrade posts</p>
+        </li>
+        <li>
+            <p>conversation threading</p>
+        </li>
+    </ul>
+</div>
+
+#### MVP
+
+When opening the application, the user registration and login system appears. For this early prototype we focused on the implementation and testing of this system, but when the application will be uploaded on mobile stores we will also offer the option to view feedback as a guest, followed by a redirect to the login page if write permissions are required.
+
+![first_pic](img/prima_poza.jpeg)
+
+Below are screenshots of using the application as a future student or as a current student.
+
+#### Future student
+
+![wireframe1](img/liceu/prima_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe2](img/liceu/a_doua_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe3](img/liceu/a_treia_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe4](img/liceu/a_patra_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe5](img/liceu/a_cincea_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe6](img/img/liceu/a_sasea_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+
+For a future student account, the appropriate option is selected and the name, email and account password are entered. After creating the account, the email and password must be entered in the login window. In case of a successful authentication, the profile of the future student is displayed, but also a button to view the feedback for the listed universities. After choosing the desired university and faculty, the opinions and questions of the other users are displayed. From here the user can upgrade / downgrade posts, view conversation threads, but also address questions for other users.
+
+#### Current student
+
+![wireframe7](img/student/prima_poza_student.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe8](img/student/a_doua_poza_student.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe9](img/student/a_treia_poza_student.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe10](img/student/a_patra_poza_student.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe11](img/student/a_cincea_poza_student.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+
+For a current student account, the appropriate option is selected and the name, student email and account password are entered. For this early prototype we use a trivial verification of the student email based on the institutional domains of the universities mentioned above, but in the future this process will be improved. After authentication, the student's profile is displayed, as well as the button to provide feedback, but only for the university where he/she is enrolled. Here are also the options to upgrade/downgrade posts and to view conversation threads.
+
+
+<div style="text-align: left;">
+    <p>We want the version that will be uploaded to the Google Play store to have the following features / additions:</p>
+    <ul>
+        <li>
+            <p>login as a guest</p> 
+        </li>
+        <li>
+            <p>improving the student verification system</p> 
+        </li>
+        <li>
+            <p>adding more universities and faculties in Romania</p> 
+        </li>
+         <li>
+            <p>integrate Google Ads</p> 
+        </li>
+    </ul>
+</div>
+
+However, until the addition / implementation of the above, we want to distribute the application to as many high school students and students as possible to find out if our solution is to their liking.
