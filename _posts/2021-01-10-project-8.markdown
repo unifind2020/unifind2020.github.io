@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2021-01-10
+img: eighth_milestone.png
+alt: image-alt
+project-date: January 2021
+title: Milestone 8
+description: 
+---
+
+### First sale
+<hr class="star-primary">
