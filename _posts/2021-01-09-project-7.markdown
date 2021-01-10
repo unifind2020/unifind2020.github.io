@@ -29,6 +29,8 @@ description:
     </ul>
 </div>
 
+* * *
+
 #### Features
 
 <div style="text-align: left;">
@@ -55,6 +57,7 @@ description:
     </ul>
 </div>
 
+* * *
 #### MVP
 
 When opening the application, the user registration and login system appears. For this early prototype we focused on the implementation and testing of this system, but when the application will be uploaded on mobile stores we will also offer the option to view feedback as a guest, followed by a redirect to the login page if write permissions are required.
@@ -63,6 +66,8 @@ When opening the application, the user registration and login system appears. Fo
 
 Below are screenshots of using the application as a future student or as a current student.
 
+* * *
+
 #### Future student
 
 ![wireframe1](img/liceu/prima_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,9 +75,11 @@ Below are screenshots of using the application as a future student or as a curre
 ![wireframe3](img/liceu/a_treia_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![wireframe4](img/liceu/a_patra_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 ![wireframe5](img/liceu/a_cincea_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
-![wireframe6](img/img/liceu/a_sasea_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
+![wireframe6](img/liceu/a_sasea_poza_liceu.jpeg){: style="border: 1px solid black"}&nbsp;&nbsp;&nbsp;&nbsp;
 
 For a future student account, the appropriate option is selected and the name, email and account password are entered. After creating the account, the email and password must be entered in the login window. In case of a successful authentication, the profile of the future student is displayed, but also a button to view the feedback for the listed universities. After choosing the desired university and faculty, the opinions and questions of the other users are displayed. From here the user can upgrade / downgrade posts, view conversation threads, but also address questions for other users.
+
+* * *
 
 #### Current student
 
