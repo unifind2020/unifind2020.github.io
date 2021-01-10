@@ -11,3 +11,114 @@ description:
 
 ### First sale
 <hr class="star-primary">
+
+Because we wanted the MVP to include as many of the promised / identified features as possible, but also due to the fact that high school and college students are currently on winter vacation, it was quite difficult to get feedback. However, we managed to find 4 people (2 high school students and 2 students) who were kind enough to install our application on their Android devices and tell us what they like or dislike about it. We attach below their impressions:
+<br><br>
+<table class="w3-table">
+  <tbody>
+    <tr>
+        <th style="padding:0 20px 0 20px;">Interview of high school student</th>
+        <th style="padding:0 20px 0 20px;">Interview of university student</th>
+    </tr>
+    <tr>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/liceu.mp4" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+        <td style="padding:0 20px 0 20px;">
+            <audio controls="">
+                <source src="img/student.ogg" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </td>
+    </tr>
+    </tbody>
+</table><br><br><br>
+
+* * *
+
+<div class="row">
+    <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
+        <figure class="figure" style="float: right;">
+            <img src="img/high-school-student.jpg">
+        </figure>
+    </div>
+    <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
+       <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 0px 8px; bottom: -8px;"></div>
+           <p>“I like the interface of the app because it is very easy to use and intuitive. Also, another feature that I like is that you can vote a question or an answer, this way being easier to see which are the most popular ones. What i didn’t like is that there is not an option to enter the app as a guest. I believe that you should include that in your next update, because some users only want to see the questions and answers, without wanting to ask anything. You should only need to login if you want to ask a question or provide feedback.”</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
+        <figure style="float: right;">
+            <img src="img/university-student.jpg">
+        </figure>
+    </div>
+    <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
+       <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
+            <div style="border-style: solid; position: absolute; border-color: #c8c8c8 transparent transparent transparent;border-width: 8px 8px 0px 8px; bottom: -8px;"></div>
+           <p>“It seems super easy to provide feedback/answer the questions and to go through the universities and threads. Even though I am already a student, it would have been nice to also be able to ask questions. Maybe I am interested in some things that I have not experienced yet and someone from a bigger year can help me with them. So I think that this could be a very useful future feature. Also, it would be helpful if you can find some information about who answered the question, like in which year of university is he in. Overall, the app is good and very promising! Keep up the good work”</p>
+        </div>
+    </div>
+</div>
+
+* * *
+
+### Conclusions
+<div style="text-align: left;">
+    <p><b>Strengths:</b></p>
+    <ul>
+        <li>
+            <p>easy and intuitive interface</p> 
+        </li>
+        <li>
+            <p>adding comments to others' posts</p> 
+        </li>
+        <li>
+            <p>upvote/downvote posts</p> 
+        </li>
+    </ul>
+</div>
+
+<div style="text-align: left;">
+    <p><b>Weaknesses:</b></p>
+    <ul>
+        <li>
+            <p>few registered universities</p> 
+        </li>
+        <li>
+            <p>no login as a guest</p> 
+        </li>
+        <li>
+            <p>questions and feedback are in the same place</p> 
+        </li>
+    </ul>
+</div>
+
+<div style="text-align: left;">
+    <p><b>Suggestions</b></p>
+    <ul>
+        <li>
+            <p>a better categorization of posts according to the type of user</p> 
+        </li>
+        <li>
+            <p>more detailed ranking at the level of year of study, series, classes, etc</p> 
+        </li>
+        <li>
+            <p>students also ask questions to older colleagues</p> 
+        </li>
+        <li>
+            <p>access to the profiles of students who provided feedback</p> 
+        </li>
+        <li>
+            <p>switching to Romanian</p> 
+        </li>
+    </ul>
+</div>
+
+We consider that the feedback received is a useful and constructive one, which we will take into account to improve the user experience and the existing features.
