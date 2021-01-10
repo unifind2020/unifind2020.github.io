@@ -13,7 +13,7 @@ description:
 <hr class="star-primary">
 
 Because we wanted the MVP to include as many of the promised / identified features as possible, but also due to the fact that high school and college students are currently on winter vacation, it was quite difficult to get feedback. However, we managed to find 4 people (2 high school students and 2 students) who were kind enough to install our application on their Android devices and tell us what they like or dislike about it. We attach below their impressions:
-
+<br><br>
 <table class="w3-table">
   <tbody>
     <tr>
@@ -41,7 +41,9 @@ Because we wanted the MVP to include as many of the promised / identified featur
 
 <div class="row">
     <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
-        <p><b>High school student</b></p>
+        <figure class="figure" style="float: right;">
+            <img src="img/high-school-student.jpg">
+        </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
        <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
@@ -53,7 +55,9 @@ Because we wanted the MVP to include as many of the promised / identified featur
 
 <div class="row">
     <div class="col-md-4" style="padding-left: 0px; padding-right: 0px;">
-        <p><b>University student</b></p>
+        <figure style="float: right;">
+            <img src="img/university-student.jpg">
+        </figure>
     </div>
     <div class="col-md-8" style="padding-right: 0px; padding-left: 0px;">
        <div style="background-color: #f8f8f8; border: 1px solid #c8c8c8; border-radius: 5px; padding: 20px;position: absolute; text-align: left;">
