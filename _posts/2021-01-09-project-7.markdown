@@ -91,6 +91,7 @@ For a future student account, the appropriate option is selected and the name, e
 
 For a current student account, the appropriate option is selected and the name, student email and account password are entered. For this early prototype we use a trivial verification of the student email based on the institutional domains of the universities mentioned above, but in the future this process will be improved. After authentication, the student's profile is displayed, as well as the button to provide feedback, but only for the university where he/she is enrolled. Here are also the options to upgrade/downgrade posts and to view conversation threads.
 
+The current version of the app is available by downloading the [apk](https://drive.google.com/file/d/1I1DgXFPC6VcOAk0OlNO1U3hwgI9pLe8S/view?usp=sharing).
 
 <div style="text-align: left;">
     <p>We want the version that will be uploaded to the Google Play store to have the following features / additions:</p>
